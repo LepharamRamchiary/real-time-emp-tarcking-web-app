@@ -1,0 +1,18 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "No"
+  ],
+  "license": "ISC",
+  "author": "Lepharam Ramchiary",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node, websoket,"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
